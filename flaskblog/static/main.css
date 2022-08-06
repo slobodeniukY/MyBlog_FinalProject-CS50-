@@ -11,11 +11,11 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .bg-steel {
-  background-color: #f0e7c9;
+  background-color: #f5f3eb;
 }
 
 .site-header .navbar-nav .nav-link {
-  color: #e6d59c;
+  color: #f5f3eb;
 }
 
 .site-header .navbar-nav .nav-link:hover {
@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .content-section {
-  background: #f5e6b5;
+  background: #f5f3eb;
   padding: 10px 20px;
   border: 1px solid #dddddd;
   border-radius: 3px;
@@ -90,4 +90,9 @@ a.article-title:hover {
   margin-right: 20px;
   margin-bottom: 16px;
     
+}
+
+form {
+    display: block;
+    margin-top: 0em;
 }
