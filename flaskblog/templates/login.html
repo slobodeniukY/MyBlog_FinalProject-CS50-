@@ -5,7 +5,7 @@
         <form method="POST" action="">
             {{ form.hidden_tag() }}
                 <legend class="border-bottom mb-4">Welcome back! Log In and Write Something</legend>
-                <div class="form-group">
+                <div class="form-group border-top pt-3">
                     {{ form.email.label(class="form-control-label") }}
                     {% if form.email.errors %}
                         {{ form.email(class="form-control form-control-lg is-invalid") }}
@@ -18,7 +18,7 @@
                         {{ form.email(class="form-control form-control-lg") }}
                     {% endif %}
                 </div>
-                <div class="form-group">
+                <div class="form-group border-top pt-3">
                     {{ form.password.label(class="form-control-label") }}
                     {% if form.password.errors %}
                         {{ form.password(class="form-control form-control-lg is-invalid") }}
@@ -31,7 +31,7 @@
                         {{ form.password(class="form-control form-control-lg") }}
                     {% endif %}
                 </div>
-                <div class="form-check">
+                <div class="form-check border-top pt-3">
                     {{ form.remember(class="form-check-input") }}
                     {{ form.remember.label(class="form-check-label") }}
                 </div>
