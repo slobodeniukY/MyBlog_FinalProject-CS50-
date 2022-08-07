@@ -13,21 +13,21 @@ After logging, if you click on the picture of a cat at the top of the navbar, yo
  
 #### Features:
   
-  ##Register
+  ## Register
  
-  ##Login
+  ## Login
  
-  ##Logout
+  ## Logout
  
-  ##Create new post
+  ## Create new post
  
-  ##View all posts
+  ## View all posts
  
-  ##Updating username, email, profile picture
+  ## Updating username, email, profile picture
  
-  ##Updating title and text of your own posts
+  ## Updating title and text of your own posts
  
-  ##Delete your own posts
+  ## Delete your own posts
  
   
   
