@@ -1,4 +1,4 @@
-# MyBlog_FinalProject-CS50)
+# MyBlog_FinalProject-CS50
 
 This is my Final CS50 Project. This Web application is based on Python, HTML, CSS and Flask framework. For Deployment I used Microsoft Azure together with GitHub. You can view the screen recording of how my app works by following the link, or follow this link yourself to see the app itself https://myflaskblogcs50.azurewebsites.net/. 
 
