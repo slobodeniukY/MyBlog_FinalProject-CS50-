@@ -46,5 +46,8 @@ set FLASK_DEBUG=1
 ### For more information you can visit:
 
 https://cs50.harvard.edu/x/2022/
+  
 https://portal.azure.com/
+  
 https://flask.palletsprojects.com/en/2.2.x/
+  
